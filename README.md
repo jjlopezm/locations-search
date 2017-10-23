@@ -1,5 +1,5 @@
 # locations-search
-This software Search in a circle area of location points and execute some operations using spark. That location points are in a csv file.
+This software find the points within a circle area and execute some operations using spark. All location points are in a csv file, and the user give a point defined by coordinates x, y and a radius to calculate the area where we find the interesting points. 
 
 ## Requirements
 To execute the software is neccesary sbt version 0.13.13 or major. All dependencies will be downloaded in the first compilation of the project.
